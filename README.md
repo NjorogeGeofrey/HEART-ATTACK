@@ -3,7 +3,7 @@ This project analyzes a dataset containing demographics, vital signs, and marker
 
 ## Project Overview
 Programming Language: Python
-Libraries Used:
+### Libraries Used:
 pandas
 numpy
 matplotlib
@@ -23,11 +23,11 @@ Preprocess categorical variables like gender and smoker status.
 Calculate descriptive statistics for numeric features (age, height, weight, cholesterol, glucose, exercise hours).
 Visualize data distributions, correlations, and relationships using matplotlib and seaborn.
 
-Statistical Analysis:
+#### Statistical Analysis:
 Conduct t-tests to compare cholesterol levels between genders, exercise hours between genders, and glucose levels between smokers and non-smokers.
 Calculate confidence intervals for heart attack proportions in the population and among smokers vs. non-smokers.
-Machine Learning Modeling:
 
-## Split the data into training and testing sets.
+## Machine Learning Modeling:
+Split the data into training and testing sets.
 Train various classification models (Logistic Regression, SVM, KNN, Random Forest, Decision Tree, Extra Trees, Gradient Boosting).
 Evaluate model performance using accuracy, precision, recall, F1 score, and confusion matrices.
